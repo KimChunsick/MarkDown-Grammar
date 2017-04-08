@@ -1,6 +1,8 @@
 # MarkDown-Grammar
 MarkDown(이하 마크다운) 문법을 설명합니다.
 대단원의 제목은 '한글이름' [영어이름]순으로 작성되었습니다.
+몇몇 문법은 Github에서 올바르게 작동하지 **++않을++** 수 있습니다.
+마크다운에 대한 설명은 저의 [블로그](http://proal.tistory.com/52)에 나와있습니다.
 
 # 목차
 #### 1. [헤더 [Header]](#Header)
@@ -308,6 +310,7 @@ ___
 
 
 * 결과
+
 블로그[^주소]에 한번 놀러오세요!
 [^주소]: proal.tistory.com
 
@@ -324,4 +327,5 @@ ___
         [![영상](http://img.youtube.com/vi/23Fn12fUhCk/0.jpg)](https://www.youtube.com/watch?v=23Fn12fUhCk)
 
 * 결과
+
 [![영상](http://img.youtube.com/vi/23Fn12fUhCk/0.jpg)](https://www.youtube.com/watch?v=23Fn12fUhCk)
