@@ -268,8 +268,8 @@ ___
 
 
 * 결과
-![프로필 사진](http://cfile24.uf.tistory.com/image/27520C3C58D0196207BB9E)
-![프로필 사진](http://cfile24.uf.tistory.com/image/27520C3C58D0196207BB9E "프로필 사진")
+![프로필 사진](https://avatars2.githubusercontent.com/u/12786855?s=460&v=4)
+![프로필 사진](https://avatars2.githubusercontent.com/u/12786855?s=460&v=4 "프로필 사진")
 
 ## 13. 주석 [Comment] <a id="Comment">
 * 프로그래밍언어처럼 주석을 남기기 가능
