@@ -227,13 +227,13 @@ ___
 
 * 예시 코드  
 
-        [블로그 주소](proal.tistory.com),
-        [블로그 주소](proal.tistory.com "한번 씩 들려주세요")
+        [블로그 주소](wangchunsik.tistory.com),
+        [블로그 주소](wangchunsik.tistory.com "한번 씩 들려주세요")
 
 
 * 결과
-[블로그 주소](proal.tistory.com)
-[블로그 주소](proal.tistory.com "한번 씩 들려주세요")
+[블로그 주소](wangchunsik.tistory.com)
+[블로그 주소](wangchunsik.tistory.com "한번 씩 들려주세요")
 
 ## 11. 참조 링크 [Link] <a id="Link2">
 * 해당 아이디가 있는 곳으로 스크롤을 이동함
@@ -308,13 +308,13 @@ ___
 * 예시 코드
 
         블로그[^주소]에 한번 놀러오세요!
-        [^주소]: proal.tistory.com
+        [^주소]: wangchunsik.tistory.com
 
 
 * 결과
 
 블로그[^주소]에 한번 놀러오세요!
-[^주소]: proal.tistory.com
+[^주소]: wangchunsik.tistory.com
 
 
 ## 15. 이미지 버튼 <a id="ImgButton">
